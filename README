@@ -1,0 +1,17 @@
+# Simple Django API and App Project
+
+This project is a simple web application and API developed with Django to learn how the Django framework works. It includes basic functionalities such as creating, reading, updating, and deleting (CRUD) records.
+
+## Features
+
+- Basic Django web application
+- RESTful API endpoints for CRUD operations
+- Models for managing data
+- Simple templates for displaying data
+- User authentication
+
+## Requirements
+
+- Python 3.x
+- Django 3.x or later
+- Django REST framework
